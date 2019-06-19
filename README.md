@@ -1,5 +1,6 @@
 # Zabbix Apache 2 http item template
-Zabbix template for apache 2 web server without external script. This template have macros for setting URL status page. This template use only one http item, other items it is depends on this master item.
+Zabbix template for apache 2 web server without external script. This template have macros for setting URL status page. 
+This template uses only one http item as a master item and other items depend it.
 
 Requirements:
 1) **Zabbix 4+**
