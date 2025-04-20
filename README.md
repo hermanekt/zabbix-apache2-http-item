@@ -1,4 +1,13 @@
 # Zabbix Apache 2 http item template
+
+> ## ⚠️ Repository archived – use the **official Apache template** instead
+> 
+> This community template is no longer maintained.  
+> For up‑to‑date features and support, migrate to the official Zabbix Apache integration:
+> 
+> **https://www.zabbix.com/integrations/apache#apache_http**
+
+
 Zabbix template for apache 2 web server without external script. This template have macros for setting URL status page. 
 This template uses only one http item as a master item and other items depend it.
 
